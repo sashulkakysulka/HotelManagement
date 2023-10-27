@@ -1,0 +1,38 @@
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\bin\Debug\zarzad_hotelem.exe.config
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\bin\Debug\zarzad_hotelem.exe
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\bin\Debug\zarzad_hotelem.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\bin\Debug\MyLibrary.dll
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\bin\Debug\MyLibrary.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.AssemblyReference.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.SuggestedBindingRedirects.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.CoreCompileInputs.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.CopyComplete
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.exe
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.AssemblyReference.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.SuggestedBindingRedirects.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.CoreCompileInputs.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.exe
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\bin\Debug\zarzad_hotelem.exe.config
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\bin\Debug\zarzad_hotelem.exe
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\bin\Debug\zarzad_hotelem.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\bin\Debug\MyLibrary.dll
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\bin\Debug\MyLibrary.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy - Copy\zarzad_hotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.CopyComplete
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\bin\Debug\zarzad_hotelem.exe.config
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\bin\Debug\zarzad_hotelem.exe
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\bin\Debug\zarzad_hotelem.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\bin\Debug\MyLibrary.dll
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\bin\Debug\MyLibrary.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.AssemblyReference.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.SuggestedBindingRedirects.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.CoreCompileInputs.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.CopyComplete
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.exe
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.pdb
+C:\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.AssemblyReference.cache
+C:\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.SuggestedBindingRedirects.cache
+C:\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.csproj.CoreCompileInputs.cache
+C:\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.exe
+C:\ZarzadHotelem\zarzad_hotelem\obj\Debug\zarzad_hotelem.pdb

@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<ArrayOfGosc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gosc>
+    <Imie>Marysia</Imie>
+    <Nazwisko>Lala</Nazwisko>
+    <Obywatelstwo>Polska</Obywatelstwo>
+    <DataUrodzenia>1997-09-16T00:00:00</DataUrodzenia>
+    <TypDokumentu>Dowód osobisty</TypDokumentu>
+    <NumerDokumentu>ARB254637</NumerDokumentu>
+    <Notatki>Poprosze o cichy pokoj</Notatki>
+    <ListaPokoji />
+    <Rezerwacja />
+  </Gosc>
+  <Gosc>
+    <Imie>Jan</Imie>
+    <Nazwisko>Kowalski</Nazwisko>
+    <Obywatelstwo>Polska</Obywatelstwo>
+    <DataUrodzenia>1985-03-21T00:00:00</DataUrodzenia>
+    <TypDokumentu>Paszport</TypDokumentu>
+    <NumerDokumentu>XHJ987654</NumerDokumentu>
+    <Notatki>Proszę o widok na morze</Notatki>
+    <ListaPokoji />
+    <Rezerwacja />
+  </Gosc>
+  <Gosc>
+    <Imie>Julia</Imie>
+    <Nazwisko>Palinowska</Nazwisko>
+    <Obywatelstwo>Polska</Obywatelstwo>
+    <DataUrodzenia>2001-06-21T00:00:00</DataUrodzenia>
+    <TypDokumentu>Dowód osobisty</TypDokumentu>
+    <NumerDokumentu>AGB9876678</NumerDokumentu>
+    <ListaPokoji />
+    <Rezerwacja />
+  </Gosc>
+  <Gosc>
+    <Imie>Roman</Imie>
+    <Nazwisko>Larkow</Nazwisko>
+    <Obywatelstwo>Polska</Obywatelstwo>
+    <DataUrodzenia>2002-04-11T00:00:00</DataUrodzenia>
+    <TypDokumentu>Dowód osobisty</TypDokumentu>
+    <NumerDokumentu>KLP9395678</NumerDokumentu>
+    <ListaPokoji />
+    <Rezerwacja />
+  </Gosc>
+  <Gosc>
+    <Imie>Oleksandra</Imie>
+    <Nazwisko>Mysiuk</Nazwisko>
+    <Obywatelstwo>Francja</Obywatelstwo>
+    <DataUrodzenia>2004-07-07T01:49:35</DataUrodzenia>
+    <TypDokumentu>Dowód osobisty</TypDokumentu>
+    <NumerDokumentu>HKJ6578475</NumerDokumentu>
+    <Notatki>Pokoj na drugim pietrze</Notatki>
+    <ListaPokoji />
+    <Rezerwacja />
+  </Gosc>
+</ArrayOfGosc>

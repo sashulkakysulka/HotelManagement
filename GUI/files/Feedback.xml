@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<ArrayOfFeedback xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Feedback>
+    <FeedbackTekst>wszystkim jestem zadowolona, cudowny serwis, piekny hotel</FeedbackTekst>
+    <DataWpisu>2023-06-15T00:00:00+02:00</DataWpisu>
+    <NadawcaFeedbacku>
+      <Imie>Marysia</Imie>
+      <Nazwisko>Lala</Nazwisko>
+      <Obywatelstwo>Polska</Obywatelstwo>
+      <DataUrodzenia>1997-09-16T00:00:00</DataUrodzenia>
+      <TypDokumentu>Dowód osobisty</TypDokumentu>
+      <NumerDokumentu>ARB254637</NumerDokumentu>
+      <Notatki>Poprosze o cichy pokoj</Notatki>
+      <ListaPokoji>
+        <Pokoj>
+          <NumerPokoju>205</NumerPokoju>
+          <Pietro>2</Pietro>
+          <Cena>750</Cena>
+          <KategoriaPokoju>
+            <Atrybuty>
+              <Key>Standart</Key>
+              <Value>false</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Luxe</Key>
+              <Value>false</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Deluxe</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Pokój jednoosobowy</Key>
+              <Value>false</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Pokój dwuoosoby</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Pokój trójosobowy</Key>
+              <Value>false</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Dostępny dla palących</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Dostosowany dla niepelnosprawnych</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Dostępny z zwierzętami</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Dzieci</Key>
+              <Value>true</Value>
+            </Atrybuty>
+          </KategoriaPokoju>
+          <ListaRezerwacji>
+            <Rezerwacja>
+              <DzienPrzyjazdu>2023-06-20T20:06:46</DzienPrzyjazdu>
+              <DzienOdjazdu>2023-06-25T20:06:46</DzienOdjazdu>
+              <ListaSerwisow>
+                <Serwisy>
+                  <Nazwa>Centrum Biznesowe</Nazwa>
+                  <Cena>50</Cena>
+                  <DataRezerwacjiSerwisu>2023-06-22T20:07:20</DataRezerwacjiSerwisu>
+                </Serwisy>
+              </ListaSerwisow>
+              <KosztCalkowity>800</KosztCalkowity>
+            </Rezerwacja>
+          </ListaRezerwacji>
+        </Pokoj>
+      </ListaPokoji>
+      <Rezerwacja>
+        <Rezerwacja>
+          <DzienPrzyjazdu>2023-06-20T20:06:46</DzienPrzyjazdu>
+          <DzienOdjazdu>2023-06-25T20:06:46</DzienOdjazdu>
+          <ListaSerwisow>
+            <Serwisy>
+              <Nazwa>Centrum Biznesowe</Nazwa>
+              <Cena>50</Cena>
+              <DataRezerwacjiSerwisu>2023-06-22T20:07:20</DataRezerwacjiSerwisu>
+            </Serwisy>
+          </ListaSerwisow>
+          <KosztCalkowity>800</KosztCalkowity>
+        </Rezerwacja>
+      </Rezerwacja>
+    </NadawcaFeedbacku>
+  </Feedback>
+  <Feedback>
+    <FeedbackTekst>super</FeedbackTekst>
+    <DataWpisu>2023-06-15T00:00:00+02:00</DataWpisu>
+    <NadawcaFeedbacku>
+      <Imie>Jan</Imie>
+      <Nazwisko>Kowalski</Nazwisko>
+      <Obywatelstwo>Polska</Obywatelstwo>
+      <DataUrodzenia>1985-03-21T00:00:00</DataUrodzenia>
+      <TypDokumentu>Paszport</TypDokumentu>
+      <NumerDokumentu>XHJ987654</NumerDokumentu>
+      <Notatki>Proszę o widok na morze</Notatki>
+      <ListaPokoji>
+        <Pokoj>
+          <NumerPokoju>204</NumerPokoju>
+          <Pietro>2</Pietro>
+          <Cena>500</Cena>
+          <KategoriaPokoju>
+            <Atrybuty>
+              <Key>Standart</Key>
+              <Value>false</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Luxe</Key>
+              <Value>false</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Deluxe</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Pokój jednoosobowy</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Pokój dwuoosoby</Key>
+              <Value>false</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Pokój trójosobowy</Key>
+              <Value>false</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Dostępny dla palących</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Dostosowany dla niepelnosprawnych</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Dostępny z zwierzętami</Key>
+              <Value>true</Value>
+            </Atrybuty>
+            <Atrybuty>
+              <Key>Dzieci</Key>
+              <Value>false</Value>
+            </Atrybuty>
+          </KategoriaPokoju>
+          <ListaRezerwacji>
+            <Rezerwacja>
+              <DzienPrzyjazdu>2023-06-20T20:33:21</DzienPrzyjazdu>
+              <DzienOdjazdu>2023-06-25T20:33:21</DzienOdjazdu>
+              <ListaSerwisow>
+                <Serwisy>
+                  <Nazwa>Centrum Biznesowe</Nazwa>
+                  <Cena>50</Cena>
+                  <DataRezerwacjiSerwisu>2023-06-22T20:33:36</DataRezerwacjiSerwisu>
+                </Serwisy>
+              </ListaSerwisow>
+              <KosztCalkowity>550</KosztCalkowity>
+            </Rezerwacja>
+          </ListaRezerwacji>
+        </Pokoj>
+      </ListaPokoji>
+      <Rezerwacja>
+        <Rezerwacja>
+          <DzienPrzyjazdu>2023-06-20T20:33:21</DzienPrzyjazdu>
+          <DzienOdjazdu>2023-06-25T20:33:21</DzienOdjazdu>
+          <ListaSerwisow>
+            <Serwisy>
+              <Nazwa>Centrum Biznesowe</Nazwa>
+              <Cena>50</Cena>
+              <DataRezerwacjiSerwisu>2023-06-22T20:33:36</DataRezerwacjiSerwisu>
+            </Serwisy>
+          </ListaSerwisow>
+          <KosztCalkowity>550</KosztCalkowity>
+        </Rezerwacja>
+      </Rezerwacja>
+    </NadawcaFeedbacku>
+  </Feedback>
+</ArrayOfFeedback>

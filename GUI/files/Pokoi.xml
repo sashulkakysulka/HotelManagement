@@ -1,0 +1,483 @@
+<?xml version="1.0"?>
+<ArrayOfPokoj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pokoj>
+    <NumerPokoju>101</NumerPokoju>
+    <Pietro>1</Pietro>
+    <Cena>200</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>false</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+  <Pokoj>
+    <NumerPokoju>102</NumerPokoju>
+    <Pietro>1</Pietro>
+    <Cena>450</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>false</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+  <Pokoj>
+    <NumerPokoju>103</NumerPokoju>
+    <Pietro>1</Pietro>
+    <Cena>210</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>false</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+  <Pokoj>
+    <NumerPokoju>104</NumerPokoju>
+    <Pietro>2</Pietro>
+    <Cena>190</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>false</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+  <Pokoj>
+    <NumerPokoju>105</NumerPokoju>
+    <Pietro>1</Pietro>
+    <Cena>220</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>true</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+  <Pokoj>
+    <NumerPokoju>201</NumerPokoju>
+    <Pietro>2</Pietro>
+    <Cena>270</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>true</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+  <Pokoj>
+    <NumerPokoju>202</NumerPokoju>
+    <Pietro>2</Pietro>
+    <Cena>300</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>false</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+  <Pokoj>
+    <NumerPokoju>203</NumerPokoju>
+    <Pietro>2</Pietro>
+    <Cena>290</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>false</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+  <Pokoj>
+    <NumerPokoju>204</NumerPokoju>
+    <Pietro>2</Pietro>
+    <Cena>500</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>false</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+  <Pokoj>
+    <NumerPokoju>205</NumerPokoju>
+    <Pietro>2</Pietro>
+    <Cena>750</Cena>
+    <KategoriaPokoju>
+      <Atrybuty>
+        <Key>Standart</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Luxe</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Deluxe</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój jednoosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój dwuoosoby</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Pokój trójosobowy</Key>
+        <Value>false</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny dla palących</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostosowany dla niepelnosprawnych</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dostępny z zwierzętami</Key>
+        <Value>true</Value>
+      </Atrybuty>
+      <Atrybuty>
+        <Key>Dzieci</Key>
+        <Value>true</Value>
+      </Atrybuty>
+    </KategoriaPokoju>
+    <ListaRezerwacji />
+  </Pokoj>
+</ArrayOfPokoj>

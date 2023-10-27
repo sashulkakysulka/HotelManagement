@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfPracownik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Pracownik>
+    <Imie>Agata</Imie>
+    <Nazwisko>Lukawa</Nazwisko>
+    <Obywatelstwo>Polska</Obywatelstwo>
+    <DataUrodzenia>2001-12-16T00:00:00</DataUrodzenia>
+    <TypDokumentu>Paszport</TypDokumentu>
+    <NumerDokumentu>GHC675498</NumerDokumentu>
+    <Password>kochampsa</Password>
+    <Stanowisko>Recepcjonista</Stanowisko>
+    <Mail>agata.lukawa@gmail.com</Mail>
+  </Pracownik>
+  <Pracownik>
+    <Imie>Łukasz</Imie>
+    <Nazwisko>Milos</Nazwisko>
+    <Obywatelstwo>Polska</Obywatelstwo>
+    <DataUrodzenia>1993-09-27T00:00:00</DataUrodzenia>
+    <TypDokumentu>Paszport</TypDokumentu>
+    <NumerDokumentu>KLP876208</NumerDokumentu>
+    <Password>cool</Password>
+    <Stanowisko>Maneger</Stanowisko>
+    <Mail>lukas.milos@gmail.com</Mail>
+  </Pracownik>
+  <Pracownik>
+    <Imie>Natan</Imie>
+    <Nazwisko>Aleksan</Nazwisko>
+    <Obywatelstwo>Ameryka</Obywatelstwo>
+    <DataUrodzenia>1999-02-12T00:00:00</DataUrodzenia>
+    <TypDokumentu>Paszport</TypDokumentu>
+    <NumerDokumentu>LKD243590</NumerDokumentu>
+    <Password>usa</Password>
+    <Stanowisko>Sprzątacz</Stanowisko>
+    <Mail>natan.aleksan@gmail.com</Mail>
+  </Pracownik>
+</ArrayOfPracownik>

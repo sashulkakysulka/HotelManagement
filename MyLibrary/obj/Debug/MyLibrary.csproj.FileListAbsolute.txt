@@ -1,0 +1,14 @@
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\MyLibrary\bin\Debug\MyLibrary.dll
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\MyLibrary\obj\Debug\MyLibrary.dll
+C:\cplusplus\obiektowe\ProjektZaliczniowy\zarzad_hotelem\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\MyLibrary\obj\Debug\MyLibrary.dll
+C:\cplusplus\obiektowe\ProjektZaliczniowy\ZarzadHotelem\MyLibrary\obj\Debug\MyLibrary.pdb
+C:\ZarzadHotelem\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\ZarzadHotelem\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\ZarzadHotelem\MyLibrary\obj\Debug\MyLibrary.dll
+C:\ZarzadHotelem\MyLibrary\obj\Debug\MyLibrary.pdb
